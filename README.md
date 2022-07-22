@@ -1,5 +1,5 @@
 # Website Biquínis 💬
-* Fiz esse website mais uma vez para treinar e também porque uma amiga quer um site para a loja dela.
+* Fiz esse website para mais uma vez praticar e também porque uma amiga quer um site para a loja dela.
 * Nesse caso eu fiz do meu jeito, apenas para praticar como já citado.
 * A proxima versão será feita conforme o pedido dela. :punch:	
 * Instagram da loja: [teampraiana](https://www.instagram.com/teampraiana/). Aproveita e segue lá :smiley: :bikini:
