@@ -1,0 +1,80 @@
+body {
+    background-image: url(../img/fundo.jpg);
+    background-size: cover;
+}
+
+.imagemdalogo img {
+    width: 145px;
+    /*border: 2px solid;
+    border-color: rgb(218, 211, 211);
+    border-radius: 50%;*/
+}
+
+.imagemdalogo {
+    text-align: right;
+}
+
+h1 {
+    font-size: 50px;
+    margin-top: -110px;
+    margin-left: 4%;
+}
+
+h1,
+h2, .texto-imagens {
+    font-family: 'Cormorant SC', serif;
+    color: rgb(104, 101, 101);
+}
+
+.texto-imagens {
+    font-size: 18px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.fotos-biquinis {
+    margin-left: 4%;
+}
+
+.biquinis {
+    display: inline-block;
+    width: 140px;
+}
+
+.biquinis img {
+    height: 490px;
+    border: 1px inset;
+    border-color: rgb(22, 253, 176);
+    border-radius: 2%;
+}
+
+.texto-estilo {
+    margin-top: 38px;
+    text-align: center;
+    background-color: rgb(241, 231, 217);
+}
+
+.carousel-inner {
+    width: 250px;
+    margin-left: 1250px;
+    margin-top: -381px;
+}
+
+.carousel-inner img {
+    border: 1px solid;
+    border-color: rgb(8, 146, 139);
+    width: 80%;
+}
+
+.rodape {
+    height: 40px;
+    color: white;
+    background-color: rgb(91, 224, 180);
+    text-align: center;
+}
+
+footer {
+    padding-top: 10px;
+}
